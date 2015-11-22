@@ -17,11 +17,11 @@ Distributed to the W3C Advisory board for discussion
 
 
 ## Purpose
-Open source browser projects use an [intent to implement]() process to build the case for shipping 
-a new feature. The  [Web Platform Incubator Community Group] ([https://wicg.github.io/admin/intent-to-migrate.html) has adopted 
-something similar to determine when a spec under incubation is ready to propose to a Working Group.
+Open source browser projects use an [intent to implement](https://docs.google.com/document/d/1vlTlsQKThwaX0-lj_iZbVTzyqY7LioqERU8DK3u3XjI/edit#) process to build the case for shipping 
+a new feature. The  [Web Platform Incubator Community Group] (https://www.w3.org/community/wicg/)   has adopted 
+something similar to [determine when a spec under incubation is ready to propose to a Working Group] (https://wicg.github.io/admin/intent-to-migrate.html).
 
-https://www.w3.org/2015/10/27-ac-minutes.html#item02
+Discussion at the [October 2015 Advisory Committee meeting] (https://www.w3.org/2015/10/27-ac-minutes.html#item02) raised issues with insisting that all W3C Recommendation Track work start in a Community Group:
 - Incubation isn't a silver bullet to be applied to every situation
 - If a CG incubates a spec that gets implemented in the browsers, it's hard to motivate them to take it to a WG for broad review
 - If the CG did not work by consensus, the de facto standard might be imposed by a single strong editor or cabal of the top browsers
