@@ -17,6 +17,7 @@ Distributed to the W3C Advisory board for discussion
 
 
 ## Purpose
+This document proposes guidelines spec developers considering whether to propose moving work to the Recommendation track. 
 Open source browser projects use an [intent to implement](https://docs.google.com/document/d/1vlTlsQKThwaX0-lj_iZbVTzyqY7LioqERU8DK3u3XjI/edit#) process to build the case for shipping 
 a new feature. The  [Web Platform Incubator Community Group] (https://www.w3.org/community/wicg/)   has adopted 
 something similar to [determine when a spec under incubation is ready to propose to a Working Group] (https://wicg.github.io/admin/intent-to-migrate.html).
