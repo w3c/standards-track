@@ -34,7 +34,7 @@ Arguments against mandating using W3C Community Groups to incubate proposals unt
 met empirical criteria included:
 - Incubation isn't a silver bullet to be applied to every situation
 - If a CG incubates a spec that gets implemented in the browsers, it's hard to motivate them to take it to a WG for broad review
-- If the CG did not work by consensus, the de facto standard might be imposed by a single strong editor or cabal of the top browsers
+- If the CG did not work by consensus, the de facto standard might be imposed by a single strong editor or contributors from popular browser vendors
 - There may be gaps in the patent commitment if all spec contributors to the incubation don't join the WG
 
 The readiness criteria below outline the W3C community's sense of the best practices for striking an appropriate balance among these perspectives.
