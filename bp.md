@@ -8,29 +8,20 @@ Last updated on 2016/01/31
 ## Problem Statement
 The practices proposed in this document are intended to address some specific problems:
 
-1.  W3C wastes resources by working on standardization efforts that end up going nowhere
+W3C wastes resources, and at worst tarnishes its credibility by working on standardization efforts that end up going nowhere
 
-2.  W3C tarnishes its credibility as a standards organization when publishing technical reports that have little relevance to 
-the Web as it actually exists.
+## Overview of a Proposed Solution
 
-3. The  Working Groups Process is not well suited to innovation of new ideas; the formal consensus process is most effective at "polishing" solid
-proposals to make them more clear, specific, and useful across users with different languages, cultures, and abilities.
-
-4. The REC track sometimes confers unwarranted legitimacy to proposals that do not have buy-in from the stakeholders needed 
-get it to Recommendation and deployed on the real Web.
-
-
-## Overview of a Solution
-
-To address these problems, W3C should and encourage specifications to be incubated outside the formal process, and more tightly focus its 
+W3C should and encourage specifications to be incubated outside the formal process, and more tightly focus its 
 formal standardization effors on specifications that are most likely to get consensus within the consortium
-and be used on the real Web. This document proposes to do that by offering a short list of criteria to consider when evaluating proposals to move specification work
-to the Recommendation track. That includes drafting the Deliverables section of a WG charter, but especially when publishing a FPWD. 
+and be used on the real Web. This document proposes to do that by offering a short list of criteria to consider
+when evaluating proposals to move specification work to the Recommendation track. 
+That includes drafting the Deliverables section of a WG charter, but especially when publishing a FPWD. 
 
 These are offered as  guidelines, not a checklist of required items in every proposal.
-Meeting all the guidelines will not guarantee Director approval of the charter or FPWD, nor will failing to meet some block approval. *The goal
-of this effort is to add more structure and predictability to Rec track decisions while allowing plenty of room for innovtion by 
-WGs and judgment by the Director.*
+Meeting all the guidelines will not guarantee Director approval of the charter or FPWD, nor will
+failing to meet some block approval. *The goal of this effort is to add more structure and predictability
+to Rec track decisions while allowing plenty of room for innovtion by WGs and judgment by the Director.*
 
 The target audience  for this document includes:
 - the Team and Director when evaluating proposals to create new Working Groups or rechartering
@@ -47,20 +38,29 @@ Discussion at the [October 2015 Advisory Committee meeting](https://www.w3.org/2
 indicated disparate opinions about whether to insist that proposed work should meet empirical criteria before being
 put on the Recommendation track. 
 
-Arguments in favor of mandatory incubation included:
-- The  "aspirational" approach  often assumes that whatever a WG produces will be implemented, but WGs without a reality check from implementers tend to create specs that don't get used in the real world.
+Arguments rasied in favor of mandatory incubation include:
+- The "aspirational" approach often assumes that whatever a WG produces will be implemented, but
+  WGs without a reality check from implementers tend to create specs that don't get used in the real world.
 - Recommendation track documents that don't get implemented or widely used do not advance W3C's mission or enhance its reputation
 - The industry overall is moving toward more data-driven decision making
-- It's useful to identify *what* criteria are prerequisites for a Recommendation Track effort, but not to prescribe *how* those 
-criteria are to be met.  So incubation in a CG is just one way to meet the criteria, not the only way.
+- It's useful to identify *what* criteria are prerequisites for a Recommendation Track effort,
+  but not to prescribe *how* those criteria are to be met.
+  So incubation in a CG is just one way to meet the criteria, not the only way.
+- The  Working Groups Process is not well suited to innovation of new ideas; the formal consensus process
+  is most effective at "polishing" solid proposals to make them more clear, specific, and useful across
+  users with different languages, cultures, and abilities.
+- The REC track sometimes confers unwarranted legitimacy to proposals that do not have buy-in from the stakeholders needed 
+  get it to Recommendation and deployed on the real Web.
 
 Arguments against focused on mandating using W3C Community Groups to incubate proposals until they 
 met empirical criteria included:
 - Incubation isn't a silver bullet to be applied to every situation
-- If a CG incubates a spec that gets implemented in the browsers, it's hard to motivate proponents to take it to a WG for broad review
+- If a CG incubates a spec that gets implemented in the browsers,
+  it's hard to motivate proponents to take it to a WG for broad review
 - Requiring external incubation in a venue that doesn't require broad consensus
- could lead to key technical decisions being made in forums dominated by a few, 
- with "level playing field" discussion beginning only when implementation momentum makes change difficult.
+ can lead to key technical decisions being made in forums dominated by a few, 
+- If discussion on a "level playing field" begins only when implementation momentum has been established,
+  meaningful change even when widely acknowledged as necessary is difficult.
 - There may be gaps in the patent commitment if all spec contributors to the incubation don't join the WG
 - It may be valuable for W3C team to help develop one or more proposals in the incubation stage
 
@@ -97,14 +97,13 @@ Working Group](https://wicg.github.io/admin/intent-to-migrate.html).
 
 ### Is there a clear problem statement?
 *Strongly Recommended*:  The proposal identifies the real-world problem this work would address, and why existing solutions are inadequate.  
-What are web developers forced to do without this feature being available in a standardized way?
-What fraction of web sites, hybrid applications, data publishers, etc. are using a similar capability in a non-standardized way?
-How would users benefit from this feature if standardized?
+- What are web developers forced to do without this feature being available in a standardized way?
+- What fraction of web sites, hybrid applications, data publishers, etc. are using a similar capability in a non-standardized way?
+- How would users benefit from this feature if standardized?
  
 ### Are success criteria explicit?
 *Strongly Recommended*: The proposal enumerates the types of products (browsers, servers, frameworks,  applications...) would need to 
-support the spec for it to be 
-successful, and indicate what degree of critical mass would be needed.  
+support the spec for it to be successful, and indicate what degree of critical mass would be needed.  
 Is this spec serving a specialized community and only that community needs to implement and adopt it for it to be successful?
 Or are there critical ecosystem dependencies, e.g. the spec must be deployed on both 
 the cloud/server and browser/client,
