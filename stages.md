@@ -25,7 +25,7 @@ We identify here 7 different types of modifications applicable to a W3C specific
 
 All types of modifications, except for in-place modifications, will result in a new dated version of the W3C Recommendation.
 
-### 0. In-place modification of W3C Technical Reports
+### 1. In-place modification of W3C Technical Reports
 
 There is a policy regarding the [in-place modification](https://www.w3.org/2003/01/republishing/) of W3C Recommendations. It allows the following types of modifications:
 
@@ -42,13 +42,13 @@ All those types of modifications are classified under the [Class of Change 1 and
 Since the modifications are in-place, this will not result in a new dated version of a W3C Recommendation.
 
 
-### 1. Editorial modifications
+### 2. Editorial modifications
 
 Those modifications are classified under the [Class of Change 1 and 2](https://dvcs.w3.org/hg/AB/raw-file/default/cover.html#correction-classes), per Process 2016 and cannot be done as an in-place modification.
 
 Editorial changes to a Recommendation require no technical review of the proposed changes and do not need to be part of an errata page initially. This will result in an Edited Recommendation, at the request of a W3C Working Group or done directly by W3C.
 
-### 2. Maintenance of an errata page for the W3C Recommendation
+### 3. Maintenance of an errata page for the W3C Recommendation
 
 Each W3C Recommendation contains a link to an errata page. This page is best maintained by the corresponding Working Group. If no such Working Group exists, the W3C is responsible for maintaining the errata page and may need assistance in doing so, such as requesting the help of a Community Group.
 
@@ -58,7 +58,7 @@ This will not result in an Edited Recommendation.
 
 Note: this diverges from Process 2016, where only Working Groups are allowed to decide how to document errata.
 
-### 3. Revising a Recommendation using an errata list
+### 4. Revising a Recommendation using an errata list
 
 A list of errata becomes part of a W3C Recommendation by the process for revising a Recommendation. To make corrections to a W3C Recommendation, a Working Group may request publication of a Candidate Recommendation. If no such Working Group exists, the W3C is responsible for requesting the publication of a Candidate Recommendation. If this is done at the request of W3C instead of a Working Group, the status should indicate that the substantive changes are NOT covered by the W3C Patent Policy. This is an acceptable trade-off between having a broken Recommendation with full patent policy coverage and a well-maintained Recommendation without RF commitments. However, the [disclosure requirement](https://www.w3.org/Consortium/Patent-Policy-20040205/#sec-disclosure-requirements) still applies.
 
@@ -68,7 +68,7 @@ This will result in an Edited Recommendation, at the request of a W3C Working Gr
 
 Note: this diverges from Process 2016, where only Working Groups are allowed to request substantive corrections to a W3C Recommendation.
 
-### 4. New features that were previously classified "at risk"
+### 5. New features that were previously classified "at risk"
 
 Working Groups may identify features in a document as "at risk". These features may be removed before advancement to Proposed Recommendation without a requirement to publish a new Candidate Recommendation, per [Process 2016](https://dvcs.w3.org/hg/AB/raw-file/default/cover.html#candidate-rec).
 
@@ -78,7 +78,7 @@ These features are classified under the [Class of Change 4](https://dvcs.w3.org/
 
 This will result in a new Recommendation, at the request of a W3C Working Group.
 
-### 5. New features under discussion but not included
+### 6. New features under discussion but not included
 
 Working Groups may identify new features while working on a document but not have enough time to include them as part of the specification.
 
@@ -90,6 +90,6 @@ This will result in a new Recommendation, at the request of a W3C Working Group.
 
 As an example, the [NoiseGate/Expander node](https://github.com/WebAudio/web-audio-api/issues/13) would be a good addition to the Web Audio API but didn't get addressed in Web Audio v.1.
 
-### 6. Brand new feature
+### 7. Brand new feature
 
 Those features were not listed or discussed sufficiently while working on the specification. As such, those should be incubated in a Community Group first.
