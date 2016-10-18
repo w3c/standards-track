@@ -88,7 +88,7 @@ These features are classified under the [Class of Change 4](https://dvcs.w3.org/
 
 This will result in a new Recommendation, at the request of a W3C Working Group.
 
-@@need example
+As an example, the [NoiseGate/Expander node](https://github.com/WebAudio/web-audio-api/issues/13) would be a good addition to the Web Audio API but didn't get addressed in Web Audio v.1.
 
 ### 6. Brand new feature
 
