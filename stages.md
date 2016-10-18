@@ -6,7 +6,7 @@ This is a proposal intended to facilitate maintenance of W3C Recommendations at 
 
 ## Problem Statement
 
-The W3C Technical Reports page contain a long list of W3C Recommendations that are not maintained properly, due to lack of editors, participants, or Working Groups.
+The W3C Technical Reports page contain a long list of W3C Recommendations that are not maintained properly, due to lack of editors, participants, or Working Groups. This proposal proposes to modify the W3C Process to properly maintain W3C Recommendations when there is no associated Working Group.
 
 ## Classes of Changes
 
