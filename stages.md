@@ -29,7 +29,7 @@ All types of modifications, except for in-place modifications, will result in a 
 
 There is a policy regarding the [in-place modification](https://www.w3.org/2003/01/republishing/) of W3C Recommendations. It allows the following types of modifications:
 
-1. Fixes to broken markup (e.g., invalid markup) (category 1)
+1. Fixes to broken markup (e.g., invalid markup)
 2. Fixed to broken links (i.e., URIs)
 3. Fixes to broken style sheets
 4. Some visible status updates, such as indicating newer versions
@@ -80,15 +80,13 @@ This will result in a new Recommendation, at the request of a W3C Working Group.
 
 ### 6. New features under discussion but not included
 
-Working Groups may identify new features while working on a document but not have enough time to include them as part of the specification.
+Working Groups may identify new features while working on a document but not have enough time to include them as part of the specification. As an example, the [NoiseGate/Expander node](https://github.com/WebAudio/web-audio-api/issues/13) would be a good addition to the Web Audio API but didn't get addressed in Web Audio v.1.
 
 Such discussion/feature should stay within the scope of the Working Group and may be incorporated in a future version of the W3C Recommendation.
 
 These features are classified under the [Class of Change 4](https://dvcs.w3.org/hg/AB/raw-file/default/cover.html#correction-classes), per Process 2016.
 
 This will result in a new Recommendation, at the request of a W3C Working Group.
-
-As an example, the [NoiseGate/Expander node](https://github.com/WebAudio/web-audio-api/issues/13) would be a good addition to the Web Audio API but didn't get addressed in Web Audio v.1.
 
 ### 7. Brand new feature
 
