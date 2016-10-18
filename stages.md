@@ -90,6 +90,6 @@ This will result in a new Recommendation, at the request of a W3C Working Group.
 
 @@need example
 
-6. Brand new feature
+### 6. Brand new feature
 
 Those features were not listed or discussed sufficiently while working on the specification. As such, those should be incubated in a Community Group first.
