@@ -29,18 +29,17 @@ All types of modifications, except for in-place modifications, will result in a 
 
 There is a policy regarding the [in-place modification](https://www.w3.org/2003/01/republishing/) of W3C Recommendations. It allows the following types of modifications:
 
-1. Fixes to broken markup (e.g., invalid markup)
-2. Fixed to broken links (i.e., URIs)
-3. Fixes to broken style sheets
-4. Some visible status updates, such as indicating newer versions
-5. An [individual's name upon request to a W3C Ombudsperson](https://www.w3.org/2016/02/trans-rec-edit.html)
+a. Fixes to broken markup (e.g., invalid markup)
+b. Fixed to broken links (i.e., URIs)
+c. Fixes to broken style sheets
+d. Some visible status updates, such as indicating newer versions
+e. An [individual's name upon request to a W3C Ombudsperson](https://www.w3.org/2016/02/trans-rec-edit.html)
 
 Except for those changes required by this [policy in section four](https://www.w3.org/2003/01/republishing/), no in-place changes to the text of a document, besides some visible status updates, are permitted, however minor.
 
 All those types of modifications are classified under the [Class of Change 1 and 2](https://dvcs.w3.org/hg/AB/raw-file/default/cover.html#correction-classes), per Process 2016.
 
 Since the modifications are in-place, this will not result in a new dated version of a W3C Recommendation.
-
 
 ### 2. Editorial modifications
 
@@ -72,7 +71,7 @@ This will result at the end in a new Recommendation, at the request of a W3C Wor
 
 ### 5. New features under discussion but not included
 
-Working Groups may identify new features while working on a document but not have enough time to include them as part of the specification. As an example, the [NoiseGate/Expander node](https://github.com/WebAudio/web-audio-api/issues/13) would be a good addition to the Web Audio API but didn't get addressed in Web Audio v.1.
+Working Groups may identify new features while working on a document but not have enough time to include them as part of the specification.
 
 Such discussion/feature should stay within the scope of the Working Group and may be incorporated in a future version of the W3C Recommendation.
 
