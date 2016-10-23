@@ -32,7 +32,7 @@ There is a policy regarding the [in-place modification](https://www.w3.org/2003/
 a. Fixes to broken markup (e.g., invalid markup)
 b. Fixed to broken links (i.e., URIs)
 c. Fixes to broken style sheets
-d. Some visible status updates, such as indicating newer versions
+d. Some visible status updates, such as adding big indicator to point to newer versions
 e. An [individual's name upon request to a W3C Ombudsperson](https://www.w3.org/2016/02/trans-rec-edit.html)
 
 Except for those changes required by this [policy in section four](https://www.w3.org/2003/01/republishing/), no in-place changes to the text of a document, besides some visible status updates, are permitted, however minor.
