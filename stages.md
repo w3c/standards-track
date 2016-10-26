@@ -4,9 +4,9 @@
 
 This is a proposal intended to facilitate maintenance of W3C Recommendations at W3C.
 
-## Problem Statement
+## Before you read further
 
-The W3C Technical Reports page contain a long list of W3C Recommendations that are not maintained properly, due to lack of editors, participants, or Working Groups. This proposal proposes to modify the W3C Process to properly maintain W3C Recommendations when there is no associated Working Group.
+The W3C Technical Reports page contain a long list of W3C Recommendations that are not maintained properly, due to lack of editors, participants, or Working Groups. This proposal proposes to modify the W3C Process to properly maintain W3C Recommendations when there is no associated Working Group. This modification appears under "3. Maintenance of an errata page for the W3C Recommendation and Revising a Recommendation using an errata list".
 
 ## Classes of Changes
 
