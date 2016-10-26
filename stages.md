@@ -57,7 +57,7 @@ All those types of errata are classified under the [Class of Change 1, 2, and 3]
 
 This will result at the end in an Edited Recommendation, at the request of a W3C Working Group or done directly by W3C.
 
-Note: this diverges from Process 2016, where only Working Groups are allowed to decide how to document errata and are allowed to request substantive corrections to a W3C Recommendation.
+**Note: this diverges from Process 2016, where only Working Groups are allowed to decide how to document errata and are allowed to request substantive corrections to a W3C Recommendation.**
 
 ### 4. New features that were previously classified "at risk"
 
