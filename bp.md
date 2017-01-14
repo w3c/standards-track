@@ -42,8 +42,8 @@ Arguments raised in favor of mandatory incubation included:
 - The industry overall is moving toward more data-driven decision making
 - It's useful to identify *what* criteria are prerequisites for a Recommendation Track effort, but not to prescribe *how* those 
 criteria are to be met.  So incubation in a CG is just one way to meet the criteria, not the only way.
- - The  Working Groups Process is not well suited to innovation of new ideas; the formal consensus process is most effective at "polishing" solid proposals to make them more clear, specific, and useful across users with different languages, cultures, and abilities.
- - The REC track sometimes confers unwarranted legitimacy to proposals that do not have buy-in from the stakeholders needed get it to Recommendation and deployed on the real Web.
+- The  Working Groups Process is not well suited to innovation of new ideas; the formal consensus process is most effective at "polishing" solid proposals to make them more clear, specific, and useful across users with different languages, cultures, and abilities.
+- The REC track sometimes confers unwarranted legitimacy to proposals that do not have buy-in from the stakeholders needed get it to Recommendation and deployed on the real Web.
 
 Arguments against focused on mandating using W3C Community Groups to incubate proposals until they 
 met empirical criteria included:
