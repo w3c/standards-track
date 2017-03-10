@@ -10,12 +10,12 @@ The W3C Technical Reports page contain a long list of W3C Recommendations that a
 
 ## Classes of Changes
 
-[Process 2016](https://dvcs.w3.org/hg/AB/raw-file/default/cover.html#correction-classes) contains the following classes of changes:
+[Process 2017](https://dvcs.w3.org/hg/AB/raw-file/default/cover.html#correction-classes) contains the following classes of changes:
 
 1. No changes to text content
 2. Corrections that do not affect conformance
 3. Corrections that do not add new features
-4. New features
+74. New features
 
 We will refer to these classes in the different types of modifications below.
 
@@ -37,13 +37,13 @@ There is a policy regarding the [in-place modification](https://www.w3.org/2003/
 
 Except for those changes required by this [policy in section four](https://www.w3.org/2003/01/republishing/), no in-place changes to the text of a document, besides some visible status updates, are permitted, however minor.
 
-All those types of modifications are classified under the [Class of Change 1 and 2](https://dvcs.w3.org/hg/AB/raw-file/default/cover.html#correction-classes), per Process 2016.
+All those types of modifications are classified under the [Class of Change 1 and 2](https://dvcs.w3.org/hg/AB/raw-file/default/cover.html#correction-classes), per Process 2017.
 
 Since the modifications are in-place, this will not result in a new dated version of a W3C Recommendation.
 
 ### 2. Editorial modifications
 
-Those modifications are classified under the [Class of Change 1 and 2](https://dvcs.w3.org/hg/AB/raw-file/default/cover.html#correction-classes), per Process 2016 and cannot be done as an in-place modification.
+Those modifications are classified under the [Class of Change 1 and 2](https://dvcs.w3.org/hg/AB/raw-file/default/cover.html#correction-classes), per Process 2017 and cannot be done as an in-place modification.
 
 Editorial changes to a Recommendation require no technical review of the proposed changes and do not need to be part of an errata page initially. This will result in an Edited Recommendation, at the request of a W3C Working Group or done directly by W3C.
 
@@ -53,7 +53,7 @@ Each W3C Recommendation contains a link to an errata page. This page is best mai
 
 A list of errata becomes part of a W3C Recommendation by the process for revising a Recommendation. To make corrections to a W3C Recommendation, a Working Group may request publication of a Candidate Recommendation. If no such Working Group exists, the W3C is responsible for requesting the publication of a Candidate Recommendation. If this is done at the request of W3C instead of a Working Group, the status should indicate that the substantive changes are NOT covered by the W3C Patent Policy. This is an acceptable trade-off between having a broken Recommendation with full patent policy coverage and a well-maintained Recommendation without RF commitments. However, the [disclosure requirements](https://www.w3.org/Consortium/Patent-Policy-20040205/#sec-disclosure-requirements) still apply.
 
-All those types of errata are classified under the [Class of Change 1, 2, and 3](https://dvcs.w3.org/hg/AB/raw-file/default/cover.html#correction-classes), per Process 2016.
+All those types of errata are classified under the [Class of Change 1, 2, and 3](https://dvcs.w3.org/hg/AB/raw-file/default/cover.html#correction-classes), per Process 2017.
 
 This will result at the end in an Edited Recommendation, at the request of a W3C Working Group or done directly by W3C.
 
@@ -61,11 +61,11 @@ This will result at the end in an Edited Recommendation, at the request of a W3C
 
 ### 4. New features that were previously classified "at risk"
 
-Working Groups may identify features in a document as "at risk". These features may be removed before advancement to Proposed Recommendation without a requirement to publish a new Candidate Recommendation, per [Process 2016](https://dvcs.w3.org/hg/AB/raw-file/default/cover.html#candidate-rec).
+Working Groups may identify features in a document as "at risk". These features may be removed before advancement to Proposed Recommendation without a requirement to publish a new Candidate Recommendation, per [Process 2017](https://dvcs.w3.org/hg/AB/raw-file/default/cover.html#candidate-rec).
 
 Such feature should stay within the scope of the Working Group and may be reincorporated in a future version of the W3C Recommendation.
 
-These features are classified under the [Class of Change 4](https://dvcs.w3.org/hg/AB/raw-file/default/cover.html#correction-classes), per Process 2016.
+These features are classified under the [Class of Change 4](https://dvcs.w3.org/hg/AB/raw-file/default/cover.html#correction-classes), per Process 2017.
 
 This will result at the end in a new Recommendation, at the request of a W3C Working Group.
 
@@ -75,7 +75,7 @@ Working Groups may identify new features while working on a document but not hav
 
 Such discussion/feature should stay within the scope of the Working Group and may be incorporated in a future version of the W3C Recommendation.
 
-These features are classified under the [Class of Change 4](https://dvcs.w3.org/hg/AB/raw-file/default/cover.html#correction-classes), per Process 2016.
+These features are classified under the [Class of Change 4](https://dvcs.w3.org/hg/AB/raw-file/default/cover.html#correction-classes), per Process 2017.
 
 This will result at the end in a new Recommendation, at the request of a W3C Working Group.
 
